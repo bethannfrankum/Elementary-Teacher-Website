@@ -1,0 +1,15 @@
+    @media only screen and (max-width: 640px) {
+        .navbar-toggle {
+            margin-top: -38px;
+        }
+        .logo a {
+            font-size: 22px;
+            color: rgba(255, 255, 255, 0.9);
+            text-decoration: none;
+            font-weight: normal;
+            border-bottom: none;
+        }
+        .navbar {
+            min-height: 22px;
+        }
+    }
